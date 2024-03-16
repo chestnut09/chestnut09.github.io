@@ -9,7 +9,7 @@
     <atom:link href="https://chestnut.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>全世界无产者，联合起来！</description>
-    <pubDate>Sat, 16 Mar 2024 04:41:48 GMT</pubDate>
+    <pubDate>Sat, 16 Mar 2024 07:48:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -26,7 +26,7 @@
       
       
       
-      <content:encoded><![CDATA[<p> 此文章用来记录我学习Paper插件开发的过程，并分享给大家。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p> 工欲善其事，必先利其器。我推荐选择JetBrains 的 IntelliJ IDEA作为开发插件的编译软件，可以从<a href="https://www.jetbrains.com/idea/download/#section=windows" title="JetBrains">JetBrains</a>官网上下载免费版本（Community版）</p><p>安装完成后打开IntelliJ IDEA，在左边的侧边栏中选择Plugins，<br>搜索Minecraft Development并安装Minecraft Development插件<br><img src="https://img2022.cnblogs.com/blog/1762590/202202/1762590-20220204143345031-24795621.png"></p><h2 id="新建项目"><a href="#新建项目" class="headerlink" title="新建项目"></a>新建项目</h2><p> 安装完毕后，点击新建项目(New Project),在左侧侧边栏中选择Minecraft</p><p> 选择后可以看到，右边有许多选框，下面是解释</p><p> <img src="/1.png"></p><p> 根据自己的需求按照上面的解释填写即可</p><hr><h2 id="提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习-，当然如果你单纯复制粘贴的话也不是不能学，date-2024-03-10-22-28-02tags"><a href="#提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习-，当然如果你单纯复制粘贴的话也不是不能学，date-2024-03-10-22-28-02tags" class="headerlink" title=" 提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习 ，当然如果你单纯复制粘贴的话也不是不能学，date: 2024-03-10 22:28:02tags:"></a> 提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习<br> ，当然如果你单纯复制粘贴的话也不是不能学，<br>date: 2024-03-10 22:28:02<br>tags:</h2>]]></content:encoded>
+      <content:encoded><![CDATA[<p> 此文章用来记录我学习Paper插件开发的过程，并分享给大家。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p> 工欲善其事，必先利其器。我推荐选择JetBrains 的 IntelliJ IDEA作为开发插件的编译软件，可以从<a href="https://www.jetbrains.com/idea/download/#section=windows" title="JetBrains">JetBrains</a>官网上下载免费版本（Community版）</p><p>安装完成后打开IntelliJ IDEA，在左边的侧边栏中选择Plugins，<br>搜索Minecraft Development并安装Minecraft Development插件<br><img src="https://img2022.cnblogs.com/blog/1762590/202202/1762590-20220204143345031-24795621.png"></p><h2 id="新建项目"><a href="#新建项目" class="headerlink" title="新建项目"></a>新建项目</h2><p> 安装完毕后，点击新建项目(New Project),在左侧侧边栏中选择Minecraft</p><p> 选择后可以看到，右边有许多选框，下面是解释</p><p> <img src="/Paper-1%5C1.png"></p><p> 根据自己的需求按照上面的解释填写即可</p><hr><h2 id="提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习-，当然如果你单纯复制粘贴的话也不是不能学，date-2024-03-10-22-28-02tags"><a href="#提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习-，当然如果你单纯复制粘贴的话也不是不能学，date-2024-03-10-22-28-02tags" class="headerlink" title=" 提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习 ，当然如果你单纯复制粘贴的话也不是不能学，date: 2024-03-10 22:28:02tags:"></a> 提示：插件的编译需要Java基础，这篇文章发布后我就去学Java了，这意味着本系列第二章以后需要Java基础才能学习<br> ，当然如果你单纯复制粘贴的话也不是不能学，<br>date: 2024-03-10 22:28:02<br>tags:</h2>]]></content:encoded>
       
       
       
